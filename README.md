@@ -1,4 +1,4 @@
-# Laboratorio # Interfaces
+# Laboratorio Interfaces
 
 **Fecha:** 11/10/2026
 
