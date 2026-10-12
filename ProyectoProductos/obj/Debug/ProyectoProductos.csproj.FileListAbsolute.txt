@@ -1,0 +1,10 @@
+C:\Users\vikst\source\repos\ProyectoProductos\obj\Debug\ProyectoProductos.csproj.AssemblyReference.cache
+C:\Users\vikst\source\repos\ProyectoProductos\obj\Debug\ProyectoProductos.Form1.resources
+C:\Users\vikst\source\repos\ProyectoProductos\obj\Debug\ProyectoProductos.Properties.Resources.resources
+C:\Users\vikst\source\repos\ProyectoProductos\obj\Debug\ProyectoProductos.csproj.GenerateResource.cache
+C:\Users\vikst\source\repos\ProyectoProductos\obj\Debug\ProyectoProductos.csproj.CoreCompileInputs.cache
+C:\Users\vikst\source\repos\ProyectoProductos\bin\Debug\ProyectoProductos.exe.config
+C:\Users\vikst\source\repos\ProyectoProductos\bin\Debug\ProyectoProductos.exe
+C:\Users\vikst\source\repos\ProyectoProductos\bin\Debug\ProyectoProductos.pdb
+C:\Users\vikst\source\repos\ProyectoProductos\obj\Debug\ProyectoProductos.exe
+C:\Users\vikst\source\repos\ProyectoProductos\obj\Debug\ProyectoProductos.pdb
